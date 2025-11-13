@@ -1,0 +1,4 @@
+let blueSky;
+let nightSky;
+
+
